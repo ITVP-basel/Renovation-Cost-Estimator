@@ -1,0 +1,47 @@
+Codice,Descrizione,U.M.,PREZZO,CATEGORY,SOURCE,QUALITA
+  6.  8. 20.143. 20,battiscopa in multistrato impiallicciato aniegre' verniciato  coprente a base acqua ral 9010 sezione dim mm 70 x 10. posa in opera esclusa (,m,5.547875625,BATTISCOPA,EDILE,BASE
+  5. 14. 20. 10.100,"posa a colla (compresa) e fuga, di battiscopa",m,8.5413474,BATTISCOPA,EDILE,SUPERIORE
+  3.610. 09,"strumentazione per temperatura: - termostato per caldaia omologato ad immersione, regolabile 0°- 90°c per pozzetto da 1/2",cad,101.684815,CALDAIA,TERMO,BASE
+  3.720.140. 50,e) caldaia a basamento tipo a condensazione funzionante a gas fino a 35 kw,cad,224.531934,CALDAIA,TERMO,SUPERIORE
+  3. 70. 00. 10. 40,rifiuti di cantiere come cartongesso materiali naturali e sintetici.,kg,0.25,CARTONGESSO,EDILE,BASE
+  4.  3. 10.100. 30,"rifiuti di cantiere in genere come carta, cartone, cartongesso, plastica, isolanti termici e acustici costituiti da sostanze naturali e sintetiche, imbottiture, cellophane, cassette, materiali vari in pannelli (legno, gesso o plastica o simili)",m3,193.9386881,CARTONGESSO,EDILE,SUPERIORE
+  3. 40   . 04 .023 .G,f.p.o. cavo h07rn-f sezione mmq 1x25,m,7.467227044,CAVO_ELETTRICO,ELETTRICO,BASE
+  3. 40   . 04 .026 .J,f.p.o. cavo h07rn-f sezione mmq 4x70,m,48.6619503,CAVO_ELETTRICO,ELETTRICO,SUPERIORE
+  5.  7. 10. 40. 20,realizzato con materiale a base di cemento o calce.,m2,35.0803245,CEMENTO,EDILE,BASE
+  5.  4. 10. 10. 10,a kg 150 di cemento tipo 325,m3,184.183726,CEMENTO,EDILE,SUPERIORE
+  3.100   . 10 .003 .C,f.p.o. plafoniera con traversini rigati sat. da 2x18 watt,cad.,98.33162475,CORPO_ILLUMINANTE,ELETTRICO,BASE
+  3.100  .G  8 .040 .A  03,f.p.o. lampada di emergenza 8w - 1nc-lumen 132- ip65,cad.,218.1080264,CORPO_ILLUMINANTE,ELETTRICO,SUPERIORE
+  2.660. 60. 20,b) gruppo incasso  monocomando a dischi ceramici con doccia,cad,349.6523542,DOCCIA,TERMO,BASE
+  3.660.210. 30,miscelatori termostatici per doccia: - dn15 da incasso,cad,400.0805801,DOCCIA,TERMO,SUPERIORE
+  3. 20   . 01 .010 .E,f.p.o. guaina spiralata diametro mm 16,m,6.36470835,IMPERMEABILIZZAZIONE,ELETTRICO,BASE
+  4.  4. 20. 10. 10,atto alla preparazione di malte cementizie meno porose o completamente impermeabili da stendere su supporti asciutti.,lt,13.2275844,IMPERMEABILIZZAZIONE,EDILE,SUPERIORE
+  3. 60   . 07 .002 .H,"f.p.o. interruttore aut. magnetotermico pdi 6 ka, 2p, 10÷32 a, 2m",cad.,33.85862168,INTERRUTTORE,ELETTRICO,BASE
+  3. 60   . 07 .008 .F,"f.p.o. interruttore aut. magnetotermico differenziale 1p+n 40 a, classe ac, 2m",cad.,97.73009918,INTERRUTTORE,ELETTRICO,SUPERIORE
+  2.210. 10. 20.300,micro intonaco a rullo - pennello (fondo ruvido),kg,8.391532669,INTONACO,EDILE,BASE
+  4.  7. 10. 60. 10,"intonaco completo civile per esterni, realizzato con malta cementizia o con malta di calce idraulica e grassello, costituito da uno strato di intonaco rustico ed uno strato di arricciatura di malta fine eseguite in rapida successione, tirato a staggia e frattazzo, con obbligo dei piani, posa dei testimoni, formazione degli spigoli con paraspigoli in acciaio e realizzazione dei riquadri, per pareti verticali e orizzontali realizzato con l'utilizzo dei ponteggi esistenti, su pareti formate con elementi di laterizio o di calcestruzzo, per uno spessore max di cm 2.",m2,41.87230369,INTONACO,EDILE,SUPERIORE
+  3.660.120. 60,maggiorazione alla voce precedente per lavabo completo di mensola pneumatica per regolazione dell'altezza,cad,162.8567453,LAVABO,TERMO,BASE
+  2.660.120. 50,"lavabo per disabili e/o mobilità ridotta, colore bianco, completo di sifone con piletta, miscelatore monocomando a dischi ceramici, prese sottolavabo, maniglione ed accessori",cad,380.9324593,LAVABO,TERMO,SUPERIORE
+  3. 60   . 07 .009 .B,"f.p.o. modulo differenziale 2p 0÷32 a, classe ac, idn 0,03 a, 2m",cad.,56.90107841,MAGNETOTERMICO,ELETTRICO,BASE
+  2. 80   . 99 . 06  .  20,"magnetotermico differenziale  bipolare 2x16 a, 2md",cad.,124.7695891,MAGNETOTERMICO,ELETTRICO,SUPERIORE
+  5.  5. 10.200. 20,"con malta bastarda e mattoni o bimattoni per fori da ml 0,31 a ml 0,40 x 0,20",m,36.39787954,MALTA,EDILE,BASE
+  5.  1. 10. 30. 10,malta con sabbia di cava e kg 350 di calce idraulica,m3,167.7993534,MALTA,EDILE,SUPERIORE
+  2. 40. 50. 30. 40,massetto pronto speciale ad asciugamento rapido,kg,0.56529522,MASSETTO,EDILE,BASE
+  4. 14. 20. 10. 20,con posa a colla su massetto predisposto,m2,30.14510231,MASSETTO,EDILE,SUPERIORE
+  5. 14. 20. 70. 20,in piastrelle di marmo lucide e bisellate cm 30x30 con colla e stucco,m2,44.5628565,PAVIMENTO,EDILE,BASE
+  3.660.110,"lavello a canale in grès porcellanato da cm. 120x45 completo di due gruppi miscelatore a muro, cromato con bocca a snodo girevole, sifone a botte pesante con piletta cromata da 1""1/4, tappo e mensole di sostegno smaltato",cad,650.5489844,PAVIMENTO,TERMO,SUPERIORE
+  2.210. 10. 20. 80,idropittura lavabile al quarzo,lt,10.74121965,PITTURA,EDILE,BASE
+  2.210. 10. 30. 50,smalto sintetico satinato,lt,20.67,PITTURA,STAT,SUPERIORE
+  3. 80   . 06 .020 .A,f.p.o. punto presa bivalente 10-16a da deriv. con cor.leg,cad.,35.2695064,PRESA,ELETTRICO,BASE
+  4.  5. 10.110. 10,"muratura a cassa vuota per chiusure perimetrali, costituita da tavolato in bimattoni, camera d'aria e tramezza interna da cm 8, compresa formazione di mazzette, sguinci, voltini, compresi i ponteggi per un'altezza massima di 4 m.",m2,101.6245125,PRESA,EDILE,SUPERIORE
+  3.620. 20. 40,"radiatore in alluminio pressofuso, escluse rubinetterie e bocchettoni, nelle varie correnti da 650 mm a 900 mm, emissione termica normale secondo norme uni 6514 a diff. t. 60°c. (per w)",w,0.3331251,RADIATORE,TERMO,BASE
+  2.620.220. 10. 10,derivazioni per radiatore,cad,50.29828872,RADIATORE,TERMO,SUPERIORE
+  2.210. 10. 20.220,rivestimento tipo intonachino a base silicati,kg,6.167273175,RIVESTIMENTO,EDILE,BASE
+  2.140. 10. 80. 20,listelli per rivestimento,m,29,RIVESTIMENTO,STAT,SUPERIORE
+  2. 40. 50. 20. 10,malta epossidica per la stuccatura di fughe r2t,kg,7.16,STUCCO_FUGHE,STAT,BASE
+  4.  5. 10.130. 20,con bimattoni normali scelti con fugatura a bisello,m2,48.1053573,STUCCO_FUGHE,EDILE,SUPERIORE
+  3.710. 10. 30,d) in tubo multistrato,cad,172.0248325,TUBO_PEX,TERMO,BASE
+  6.  8. 10. 82. 30,in multistrato di okoume' ( dim. scuro) mm 1000 x 1400 verniciatura coprente (laccata),cad,528.2958994,TUBO_PEX,EDILE,SUPERIORE
+  3. 20   . 02 .001 .M,f.p.o. canali portacavi in pvc autoestinguenti da mm 100x80,m,22.65048786,TUBO_PVC,ELETTRICO,BASE
+  3. 80   . 09 . 30  .  29,"f.p.o. punto alimentazione a vista con tubo rigido pvc e cavo fs17 2x2,5mmq",cad.,69.9066787,TUBO_PVC,ELETTRICO,SUPERIORE
+  2. 70. 20. 70. 12,piante di graminacee in vaso 18,cad,8.02,WC,STAT,BASE
+  2.710. 40. 40,"raccordo allo scarico, fino alla colonna verticale, (circa ml. 1) per vaso scarico a pavimento, tubazione in pe hd compreso raccorderia e pezzi speciali",cad,43.87645203,WC,TERMO,SUPERIORE
